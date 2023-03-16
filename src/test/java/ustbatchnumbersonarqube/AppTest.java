@@ -1,4 +1,4 @@
-package ustbatchnumber3.sonarqube;
+package ustbatchnumbersonarqube;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
